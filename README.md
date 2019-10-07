@@ -18,6 +18,7 @@ solo en el repositorio local
 
 Solo en el stage
 solo en mi directorio de trabajo
+Added from master
 
 ### Copyright
 
