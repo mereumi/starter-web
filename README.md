@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 solo en el repositorio local
 
 ## How to contribute
+
+Solo en el stage
+solo en mi directorio de trabajo
