@@ -18,3 +18,7 @@ solo en el repositorio local
 
 Solo en el stage
 solo en mi directorio de trabajo
+
+### Copyright
+
+Adding copyright message
