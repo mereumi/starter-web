@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eugenio -- pringao -- @egonzalezm
 
 # THANKS
 
-    <name>
+    All my students!
 
 # TECHNOLOGY COLOPHON
 

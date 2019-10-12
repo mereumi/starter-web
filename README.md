@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then
+more changes from feature branch too.
 
 ## Introduction
 
@@ -18,6 +19,7 @@ solo en el repositorio local
 
 Solo en el stage
 solo en mi directorio de trabajo
+Added from master
 
 ### Copyright
 
